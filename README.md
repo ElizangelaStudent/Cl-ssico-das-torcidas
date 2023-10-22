@@ -3,7 +3,7 @@
 <html>
 <head>  
   <title>
-Clássico das Torcidas: Corinthians vs Palmeiras</title>
+Clássico das Torcidas: Corinthians vs Palmeiras </title>
 </head><body>  
    <h1>Clássico das Torcidas: Corinthians vs Palmeiras</h1>    
 
