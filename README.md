@@ -4,8 +4,13 @@
 <head>  
   <title>
 Clássico das Torcidas: Corinthians vs Palmeiras </title>
-</head><body>  
-   <h1>Clássico das Torcidas: Corinthians vs Palmeiras</h1>    
+</head>
+<body>  
+   <h1>Clássico das Torcidas: Corinthians vs Palmeiras</h1>
+<p align="center">
+<img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/74e3372b-8468-4ef9-8670-7379618b4a0b</p>
+<img width="40px" height=40 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/b236c0c9-3b79-489b-a5dd-e0a5d8d1ca2a </p>
+<img width="80px" height= 80 src=https://github.com/ElizangelaStudent/Jogo-entre-Gigantes-/assets/107508602/f58b2fba-8e02-4a36-8237-ddccbe049729 </p>
 
 <p>Data: 10 de outubro de 2021</p>  <p>Local: Arena Corinthians, São Paulo</p>  
  <p>Expectadores: 30.000</p>    <h2>Resultado da Partida</h2>  
