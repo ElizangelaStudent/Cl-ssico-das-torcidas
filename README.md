@@ -13,8 +13,7 @@ Clássico das Torcidas: Corinthians vs Palmeiras </title>
 
 <h3>Descrição do Jogo</h3>  
 
-<p>No dia 10 de outubro de 2021,ocorreu o evento esportivo  na Arena Corinthians, localizado na cidade de São Paulo. O evento contou com a presença de aproximadamente 30.000 expectadores, que se reuniram para assistir a uma emocionante partida de futebol entre os times Corinthians e Palmeiras.
-</p>
+<p>No dia 10 de outubro de 2021,ocorreu o evento esportivo  na Arena Corinthians, localizado na cidade de São Paulo. O evento contou com a presença de aproximadamente 30.000 expectadores, que se reuniram para assistir a uma emocionante partida de futebol entre os times Corinthians e Palmeiras.</p>
 
 <p>O jogo foi bastante disputado, com ambos os times demonstrando habilidade e determinação em campo. No entanto, ao final dos 90 minutos regulamentares, o time do Corinthians saiu vitorioso, conquistando a vitória por 2 a 1 sobre o Palmeiras.
 </p>
